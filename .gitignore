@@ -1,0 +1,12 @@
+# IDEs
+**/.vscode
+
+# Interpreter
+**/.venv*
+
+# Python project setup
+.pdm.toml
+pdm.lock
+
+# Local files
+**/.DS_Store
